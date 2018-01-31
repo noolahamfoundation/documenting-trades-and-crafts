@@ -14,6 +14,11 @@
 * காணொளிகள்
 
 ### நுட்பச் சீர்தரங்கள்
+* Images (18 MP min, TIFF or high quality JPEG for preservation copies, JPEG for access copies)
+* Audio (24 bit 96 KHz linear PCM audio as .wav files, MP3 for access copies)
+* Video (FFV1/LPCM in MKV or MOV for preservation, MP4 for access copies)
+* Text/Digitization (400 dpi saved as uncompressed TIFF files for preservation copies, PDF for access copies)
+
 ### உபகரணங்கள்
 
 ## ஊடகங்களை தொகுத்தல்
